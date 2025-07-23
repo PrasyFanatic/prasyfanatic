@@ -52,9 +52,9 @@ ___________________________________________________________________
 
 # 📊 **GitHub Stats**
 
-![PrasyFanatic GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrasyFanatic&show_icons=true&theme=radical&count_private=true)
+![Prasy Fanatic GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrasyFanatic&show_icons=true&theme=radical&count_private=true)
 
-![PrasyFanatic Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=programmergaurav&theme=radical)
+![Prasy Fanatic Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=programmergaurav&theme=radical)
 
 ![Prasy Fanatic](https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide=html,css&hide_border=true&card_width=380&hide_title=true&langs_count=6)
 
