@@ -12,7 +12,7 @@
 
 ___________________________________________________________________
 
-![Prasy Fanatic](https://github.com/PrasyFanatic/prasyfanatic/blob/prasy/image/PrasyFanatic.jpg)
+![Prasy Fanatic](https://github.com/PrasyFanatic/prasyfanatic/blob/prasy/image/Prasy%20Fanatic.png)
 
 > [!WARNING]  
 > - **I’m Interested In Ethical Hacking** <img src="/media/star.gif" width="20px">
