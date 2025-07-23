@@ -1,6 +1,7 @@
 # <img src="/media/hello.gif" width="30px"> **Hello I'm Prasy Fanatic**
+<br>
 
-# <img src="https://github.com/PrasyFanatic/prasyfanatic/blob/prasy/image/prasyfanatic.png" width="350px">
+![Prasy Fanatic](https://github.com/PrasyFanatic/prasyfanatic/blob/prasy/image/prasyfanatic.png)
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=PrasyFanatic;COMMUNITY+CYBER+IKUZO;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
 
